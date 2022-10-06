@@ -1,8 +1,6 @@
 ## 👨‍💻 Prerequisite Skills to Contribute
 
-Basics:
   - [Git](https://git-scm.com/)
-  - [Markdown](https://www.markdownguide.org/basic-syntax/)
   - [Python](https://www.python.org/)
 
 ---
